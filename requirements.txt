@@ -6,7 +6,7 @@ click==8.1.7
 cryptography==41.0.5
 dnspython==2.3.0
 dominate==2.8.0
-email-validator==2.1.0.post1
+email-validator==2.1.0
 Flask==3.0.0
 Flask-Bootstrap==3.3.7.1
 Flask-Login==0.6.3
