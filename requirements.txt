@@ -1,5 +1,5 @@
 alembic==1.12.1
-bleach==6.1.0
+bleach==6.0.0
 blinker==1.7.0
 cffi==1.16.0
 click==8.1.7
